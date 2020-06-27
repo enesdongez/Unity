@@ -1,4 +1,3 @@
 # Kup Toplama
 
-
-Uygulama içerisinde platform üzerinden çıkan objeleri bitene kadar toplayınız, daha sonra yeni oyun butonuna tıklayıp, yeniden toplamaya başlayabilirsiniz.
+Unity3d ortamında hazırlanmış olan proje temel olarak dönen küplerin toplanması ve toplanan küp miktarı kadar oyuncuya puan verilmesinden oluşmaktadır. Oyuncu masanın üzerindeki dönen küplerin tamamını topladıktan sonra ekranın üst tarafında “Oyun Bitti” ibaresini ve hemen yanında “Yeni Oyun” butonunu görecektir. Oyuncu tekrar bir oyun daha oynamak isterse “Yeni Oyun” butonuna tıklaması yeterlidir. Yeni oyuna başlayan oyuncu bir önceki skorundan devam ederek topladığı küplerin sayısı kaldığı yerden devam eder. Oyuncu küpleri toplamak için bir küre kullanmaktadır. Küreye sabitlenmiş olan ortam kamerası oyuncunun ileri geri yön tuşları ile hareketi sonucu küre hareketlenir ve ortam kamerası da küpleri toplamak için hareket eden küreyi takip eder.
